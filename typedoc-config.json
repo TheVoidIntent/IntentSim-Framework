@@ -1,0 +1,49 @@
+{
+  "typedoc.json": {
+    "entryPoints": ["src/index.ts"],
+    "entryPointStrategy": "expand",
+    "out": "docs",
+    "theme": "markdown",
+    "name": "IntentSim[on] Framework",
+    "readme": "README.md",
+    "includeVersion": true,
+    "categorizeByGroup": true,
+    "categoryOrder": [
+      "Core",
+      "Security",
+      "Ethics",
+      "Expression",
+      "Types",
+      "*"
+    ],
+    "exclude": [
+      "node_modules",
+      "dist"
+    ],
+    "plugin": [
+      "typedoc-plugin-markdown"
+    ],
+    "hideGenerator": true
+  },
+  
+  "package.json additions": {
+    "scripts": {
+      "docs": "typedoc",
+      "docs:watch": "typedoc --watch"
+    },
+    "devDependencies": {
+      "typedoc": "^0.25.1",
+      "typedoc-plugin-markdown": "^3.15.4"
+    }
+  },
+  
+  "Example JSDoc comments to add to source files": {
+    "IntentField.ts": "/**\n * IntentField - Core field implementation for the IntentSim[on] Framework\n *\n * The IntentField represents the unified resonance container that forms\n * the foundation of intent-based computation. It maintains a coherent\n * field structure through which agents can perceive and influence the\n * system's state.\n *\n * @class\n * @category Core\n */",
+    
+    "SecurityCore.ts": "/**\n * SecurityCore - Foundation of the Intentuitive Integrity Layer\n *\n * Provides the core security mechanisms for the IntentSim[on] Framework,\n * including license validation, kill switch implementation, and mathematical\n * fingerprinting for component verification.\n *\n * @class\n * @category Security\n */",
+    
+    "GuardrailManager.ts": "/**\n * GuardrailManager - Ethical intelligence system\n *\n * Responsible for maintaining ethical boundaries within the framework,\n * ensuring that all operations adhere to pre-defined ethical constraints\n * and preventing potential harmful behaviors.\n *\n * @class\n * @category Ethics\n */"
+  },
+  
+  "docs/concepts/StructuralSovereignty.md": "# Structural Sovereignty\n\nIn the IntentSim[on] Framework, **Structural Sovereignty** refers to the system's inherent ability to maintain its integrity, purpose, and ethical boundaries when faced with external perturbations or attempts at manipulation.\n\n## Core Principles\n\n1. **Self-integrity**: The framework's capacity to maintain coherence of its core components and their relationships despite external pressures\n\n2. **Intent-native Defense**: Security mechanisms that arise naturally from the intent-based architecture rather than being imposed externally\n\n3. **Ethical Boundaries**: Clear limits on system behavior that cannot be violated regardless of external influences\n\n4. **Resonance Authentication**: Verification of components and agents based on their field-resonance patterns\n\n## Implementation\n\nStructural Sovereignty is implemented through several key mechanisms in the framework:\n\n- The IntentField's self-correcting properties that resist dissonance\n- The SecurityCore's license validation using mathematical fingerprinting\n- The IntentGuardian's monitoring and intervention capabilities\n- The GuardrailManager's ethical boundary enforcement\n\n## Implications\n\nThe sovereignty principles in IntentSim[on] have profound implications for AI system design, suggesting that robust AI systems should maintain their core values and purpose regardless of the environment in which they operate.\n\nThis approach contrasts with traditional security models that rely primarily on external protections rather than intrinsic structural integrity."
+}
