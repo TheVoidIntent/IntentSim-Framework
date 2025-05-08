@@ -1,9 +1,9 @@
 // Core components
-export { IntentField } from './core/IntentField';
-export { CognitiveProfile } from './core/CognitiveProfile';
-export { IntentAgent } from './core/IntentAgent';
-export { GuardrailManager } from './ethics/GuardrailManager';
-export { PersonaLayer } from './expression/PersonaLayer';
+export { IntentField } from './core/intentfield';
+export { CognitiveProfile } from './core/cognitiveprofile';
+export { IntentAgent } from './core/intentagent';
+export { GuardrailManager } from './ethics/guardrailmanager';
+export { PersonaLayer } from './expression/personalayer';
 
 // Types
 export * from './types/field';
