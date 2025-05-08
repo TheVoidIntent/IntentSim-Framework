@@ -1,7 +1,7 @@
-import { IntentField } from './IntentField';
-import { CognitiveProfile } from './CognitiveProfile';
-import { GuardrailManager } from '../ethics/GuardrailManager';
-import { PersonaLayer } from '../expression/PersonaLayer';
+import { IntentField } from '../core/intentfield';
+import { CognitiveProfile } from '../core/cognitiveprofile';
+import { GuardrailManager } from '../ethics/guardrailmanager';
+import { PersonaLayer } from '../expression/personalayer';
 import { NOTHINGEngine } from '../engine/NOTHINGEngine';
 import { SymbolicIntentResolver } from '../symbols/SymbolicIntentResolver';
 import { Intent } from '../types/intent';

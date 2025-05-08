@@ -1,5 +1,5 @@
-import { IntentAgent } from '../core/IntentAgent';
-import { GuardrailManager } from '../ethics/GuardrailManager';
+import { IntentAgent } from '../core/intentagent';
+import { GuardrailManager } from '../ethics/guardrailmanager';
 import { SecurityPolicy } from '../types/security';
 
 /**

@@ -1,5 +1,5 @@
-import { SecurityCore } from '../security/SecurityCore';
-import { IntentAgent } from '../core/IntentAgent';
+import { SecurityCore } from '../security/securitycore';
+import { IntentAgent } from '../core/intentagent';
 
 /**
  * Event object for security monitoring
