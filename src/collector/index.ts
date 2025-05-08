@@ -1591,10 +1591,4 @@ export function createPersonaData(
   };
 }
 
-// === Export Main Class and Types ===
-
-export {
-  IntentSimCollector,
-  DataType,
-  OutputFormat
-};
+// Types and classes are already exported above
