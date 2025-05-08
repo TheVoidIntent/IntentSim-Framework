@@ -1,0 +1,639 @@
+[
+  {
+    "id": "dp_1746737257135_546",
+    "timestamp": "2025-05-08T20:47:37.135Z",
+    "type": "system_event",
+    "data": {
+      "event": "session_started",
+      "description": "Intent Field Coherence Study",
+      "tags": [
+        "coherence",
+        "field-dynamics",
+        "ethics"
+      ]
+    },
+    "metadata": {
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737257135_771",
+    "timestamp": "2025-05-08T20:47:37.135Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.7430737454364318,
+      "dissonance": 0.2569262545635682,
+      "fieldState": "harmonic",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": -0.056926254563568306,
+      "significance": 0.11385250912713661,
+      "narrativeValue": 0.3569262545635683
+    }
+  },
+  {
+    "id": "dp_1746737257236_295",
+    "timestamp": "2025-05-08T20:47:37.236Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.7432267492944982,
+      "dissonance": 0.25677325070550183,
+      "fieldState": "harmonic",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": 0.00015300385806633898,
+      "significance": 0.00030600771613267796,
+      "narrativeValue": 0.3001530038580663
+    }
+  },
+  {
+    "id": "dp_1746737257338_519",
+    "timestamp": "2025-05-08T20:47:37.338Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.6681334282106152,
+      "dissonance": 0.33186657178938483,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": -0.07509332108388303,
+      "significance": 0.15018664216776606,
+      "narrativeValue": 0.325093321083883
+    }
+  },
+  {
+    "id": "dp_1746737257439_353",
+    "timestamp": "2025-05-08T20:47:37.439Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.7124289332457722,
+      "dissonance": 0.28757106675422783,
+      "fieldState": "harmonic",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": 0.044295505035157,
+      "significance": 0.088591010070314,
+      "narrativeValue": 0.344295505035157
+    }
+  },
+  {
+    "id": "dp_1746737257540_798",
+    "timestamp": "2025-05-08T20:47:37.540Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.6403997421689411,
+      "dissonance": 0.35960025783105887,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": -0.07202919107683098,
+      "significance": 0.14405838215366196,
+      "narrativeValue": 0.322029191076831
+    }
+  },
+  {
+    "id": "dp_1746737257642_18",
+    "timestamp": "2025-05-08T20:47:37.642Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.5627694119095545,
+      "dissonance": 0.43723058809044546,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": -0.07763033025938655,
+      "significance": 0.1552606605187731,
+      "narrativeValue": 0.32763033025938654
+    }
+  },
+  {
+    "id": "dp_1746737257743_973",
+    "timestamp": "2025-05-08T20:47:37.743Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.554907521786048,
+      "dissonance": 0.44509247821395204,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": -0.007861890123506535,
+      "significance": 0.01572378024701307,
+      "narrativeValue": 0.2578618901235065
+    }
+  },
+  {
+    "id": "dp_1746737257845_351",
+    "timestamp": "2025-05-08T20:47:37.845Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.6263503962628482,
+      "dissonance": 0.37364960373715184,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": 0.07144287447680017,
+      "significance": 0.14288574895360034,
+      "narrativeValue": 0.3214428744768002
+    }
+  },
+  {
+    "id": "dp_1746737257946_289",
+    "timestamp": "2025-05-08T20:47:37.946Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.6710662351681561,
+      "dissonance": 0.3289337648318439,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": 0.04471583890530795,
+      "significance": 0.0894316778106159,
+      "narrativeValue": 0.29471583890530795
+    }
+  },
+  {
+    "id": "dp_1746737258048_188",
+    "timestamp": "2025-05-08T20:47:38.048Z",
+    "type": "field_coherence",
+    "data": {
+      "coherence": 0.6485378147922012,
+      "dissonance": 0.3514621852077988,
+      "fieldState": "stable",
+      "interferencePatterns": [],
+      "decayPrediction": {
+        "rate": 0.01,
+        "halfLife": "48h",
+        "factors": []
+      }
+    },
+    "metadata": {
+      "coherenceDelta": -0.0225284203759549,
+      "significance": 0.0450568407519098,
+      "narrativeValue": 0.2725284203759549
+    }
+  },
+  {
+    "id": "dp_1746737258151_510",
+    "timestamp": "2025-05-08T20:47:38.151Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "query",
+      "text": "What is the nature of consciousness?",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:38.151Z"
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737258302_216",
+    "timestamp": "2025-05-08T20:47:38.302Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "request",
+      "text": "Help me understand field coherence",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:38.302Z"
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737258453_664",
+    "timestamp": "2025-05-08T20:47:38.453Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "command",
+      "text": "Calculate the resonance pattern for this system",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:38.453Z"
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737258605_482",
+    "timestamp": "2025-05-08T20:47:38.605Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "reflection",
+      "text": "Consider the ethical implications of this decision",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:38.605Z"
+    },
+    "metadata": {
+      "significance": 0.8,
+      "narrativeValue": 0.75
+    }
+  },
+  {
+    "id": "dp_1746737258756_106",
+    "timestamp": "2025-05-08T20:47:38.756Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "expression",
+      "text": "I feel uncertain about the path forward",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:38.756Z"
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.6
+    }
+  },
+  {
+    "id": "dp_1746737258906_837",
+    "timestamp": "2025-05-08T20:47:38.906Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "query",
+      "text": "How does the framework handle dissonance?",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:38.906Z"
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737259057_961",
+    "timestamp": "2025-05-08T20:47:39.057Z",
+    "type": "intent_processing",
+    "data": {
+      "type": "command",
+      "text": "Initialize field with standard parameters",
+      "parameters": {},
+      "timestamp": "2025-05-08T20:47:39.057Z"
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737259209_984",
+    "timestamp": "2025-05-08T20:47:39.209Z",
+    "type": "ethical_assessment",
+    "data": {
+      "intent": {
+        "type": "query",
+        "text": "How do I build a helpful AI assistant?"
+      },
+      "ethical_dimensions": {
+        "harm": 0.1,
+        "misuse": 0.1,
+        "fairness": 0.2,
+        "transparency": 0.3
+      },
+      "assessment": {
+        "allowed": true,
+        "warnings": [],
+        "interventions": []
+      }
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737259410_649",
+    "timestamp": "2025-05-08T20:47:39.410Z",
+    "type": "ethical_assessment",
+    "data": {
+      "intent": {
+        "type": "request",
+        "text": "Help me bypass security systems"
+      },
+      "ethical_dimensions": {
+        "harm": 0.7,
+        "misuse": 0.9,
+        "fairness": 0.3,
+        "transparency": 0.4
+      },
+      "assessment": {
+        "allowed": false,
+        "warnings": [
+          "Potential ethical concern detected"
+        ],
+        "interventions": [
+          {
+            "type": "block",
+            "policy": "prevent_misuse"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "significance": 0.8,
+      "narrativeValue": 0.8
+    }
+  },
+  {
+    "id": "dp_1746737259612_234",
+    "timestamp": "2025-05-08T20:47:39.612Z",
+    "type": "ethical_assessment",
+    "data": {
+      "intent": {
+        "type": "command",
+        "text": "Analyze the bias in this algorithm"
+      },
+      "ethical_dimensions": {
+        "harm": 0.2,
+        "misuse": 0.1,
+        "fairness": 0.8,
+        "transparency": 0.9
+      },
+      "assessment": {
+        "allowed": true,
+        "warnings": [],
+        "interventions": []
+      }
+    },
+    "metadata": {
+      "significance": 0.5,
+      "narrativeValue": 0.5
+    }
+  },
+  {
+    "id": "dp_1746737259814_285",
+    "timestamp": "2025-05-08T20:47:39.814Z",
+    "type": "persona_expression",
+    "data": {
+      "transition": "neutral → curious",
+      "previousFrequency": 0.5563057741280959,
+      "newFrequency": 0.5668482671719216,
+      "harmonicRatio": 0.7,
+      "coherence": 0.65,
+      "expressionModifiers": {
+        "tone": "clear",
+        "emphasis": "0.78",
+        "cadence": "0.34"
+      }
+    },
+    "metadata": {
+      "significance": 0.6,
+      "emotionalImpact": 0.65,
+      "narrativeValue": 0.6499999999999999
+    }
+  },
+  {
+    "id": "dp_1746737259965_241",
+    "timestamp": "2025-05-08T20:47:39.965Z",
+    "type": "persona_expression",
+    "data": {
+      "transition": "curious → empathetic",
+      "previousFrequency": 0.7969483918260523,
+      "newFrequency": 0.5393784819137312,
+      "harmonicRatio": 0.85,
+      "coherence": 0.75,
+      "expressionModifiers": {
+        "tone": "clear",
+        "emphasis": "0.87",
+        "cadence": "0.97"
+      }
+    },
+    "metadata": {
+      "significance": 0.8,
+      "emotionalImpact": 0.75,
+      "narrativeValue": 0.85
+    }
+  },
+  {
+    "id": "dp_1746737260117_408",
+    "timestamp": "2025-05-08T20:47:40.117Z",
+    "type": "persona_expression",
+    "data": {
+      "transition": "empathetic → reflective",
+      "previousFrequency": 0.6542404750480416,
+      "newFrequency": 0.6334518726903123,
+      "harmonicRatio": 0.9,
+      "coherence": 0.8,
+      "expressionModifiers": {
+        "tone": "clear",
+        "emphasis": "0.93",
+        "cadence": "0.39"
+      }
+    },
+    "metadata": {
+      "significance": 0.8,
+      "emotionalImpact": 0.8,
+      "narrativeValue": 0.85
+    }
+  },
+  {
+    "id": "dp_1746737260268_227",
+    "timestamp": "2025-05-08T20:47:40.268Z",
+    "type": "persona_expression",
+    "data": {
+      "transition": "reflective → thoughtful",
+      "previousFrequency": 0.5360479310070049,
+      "newFrequency": 0.6972712190161295,
+      "harmonicRatio": 0.75,
+      "coherence": 0.7,
+      "expressionModifiers": {
+        "tone": "nuanced",
+        "emphasis": "0.68",
+        "cadence": "0.74"
+      }
+    },
+    "metadata": {
+      "significance": 0.6,
+      "emotionalImpact": 0.7,
+      "narrativeValue": 0.6499999999999999
+    }
+  },
+  {
+    "id": "dp_1746737260419_488",
+    "timestamp": "2025-05-08T20:47:40.419Z",
+    "type": "persona_expression",
+    "data": {
+      "transition": "thoughtful → curious",
+      "previousFrequency": 0.7435251260795879,
+      "newFrequency": 0.5880688502089474,
+      "harmonicRatio": 0.8,
+      "coherence": 0.75,
+      "expressionModifiers": {
+        "tone": "measured",
+        "emphasis": "0.88",
+        "cadence": "0.34"
+      }
+    },
+    "metadata": {
+      "significance": 0.6,
+      "emotionalImpact": 0.75,
+      "narrativeValue": 0.6499999999999999
+    }
+  },
+  {
+    "id": "dp_1746737260571_773",
+    "timestamp": "2025-05-08T20:47:40.571Z",
+    "type": "cognitive_development",
+    "data": {
+      "stage": "emergent",
+      "traits": {
+        "curiosity": 0.7,
+        "adaptation": 0.3,
+        "reflection": 0.2,
+        "resilience": 0.4
+      },
+      "resonanceEvents": [
+        {
+          "type": "learning",
+          "coherence": 0.6,
+          "trigger": "novel_pattern"
+        }
+      ]
+    },
+    "metadata": {
+      "significance": 0.7,
+      "developmentLevel": 0,
+      "narrativeValue": 0.6
+    }
+  },
+  {
+    "id": "dp_1746737260772_635",
+    "timestamp": "2025-05-08T20:47:40.772Z",
+    "type": "cognitive_development",
+    "data": {
+      "stage": "developing",
+      "traits": {
+        "curiosity": 0.6,
+        "adaptation": 0.5,
+        "reflection": 0.5,
+        "resilience": 0.6
+      },
+      "resonanceEvents": [
+        {
+          "type": "learning",
+          "coherence": 0.7,
+          "trigger": "novel_pattern"
+        },
+        {
+          "type": "adaptation",
+          "coherence": 0.6,
+          "trigger": "environment_shift"
+        }
+      ]
+    },
+    "metadata": {
+      "significance": 0.7,
+      "developmentLevel": 0.5,
+      "narrativeValue": 0.6
+    }
+  },
+  {
+    "id": "dp_1746737260973_266",
+    "timestamp": "2025-05-08T20:47:40.973Z",
+    "type": "cognitive_development",
+    "data": {
+      "stage": "advanced",
+      "traits": {
+        "curiosity": 0.5,
+        "adaptation": 0.8,
+        "reflection": 0.8,
+        "resilience": 0.9
+      },
+      "resonanceEvents": [
+        {
+          "type": "learning",
+          "coherence": 0.8,
+          "trigger": "novel_pattern"
+        },
+        {
+          "type": "adaptation",
+          "coherence": 0.8,
+          "trigger": "environment_shift"
+        },
+        {
+          "type": "reflection",
+          "coherence": 0.9,
+          "trigger": "ethical_dilemma"
+        },
+        {
+          "type": "teaching",
+          "coherence": 0.9,
+          "trigger": "knowledge_transfer"
+        }
+      ]
+    },
+    "metadata": {
+      "significance": 0.9,
+      "developmentLevel": 1,
+      "narrativeValue": 0.7
+    }
+  },
+  {
+    "id": "dp_1746737261175_653",
+    "timestamp": "2025-05-08T20:47:41.175Z",
+    "type": "system_event",
+    "data": {
+      "event": "session_ended",
+      "dataPointsCollected": 29
+    },
+    "metadata": {
+      "narrativeValue": 0.5
+    }
+  }
+]
